@@ -1,0 +1,6 @@
+{
+  "name": "GARPAG España | Especialistas en Garajes y Parkings",
+  "description": "Sitio web profesional de GARPAG España con cotizador interactivo, comparador de soluciones para parkings, catálogo de automatismos y pavimentos, y sistema de contacto rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
